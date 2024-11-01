@@ -1,2 +1,3 @@
 Existing text in file
 
+Example of additional text
